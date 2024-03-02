@@ -4,7 +4,7 @@
 
 ## Description
 _This is a minimal JavaScript Webpack project for setting up and incorporating the google maps API in a website._
-
+HHHHHHHHHHHHHHIIIIIIIIIIIIII
 _It uses the great [load-google-maps-api package](https://www.npmjs.com/package/load-google-maps-api) npm package to initialize the google maps API. The package's loadGoogleMapsApi() function returns a promise which resolves to the google maps object required to create google maps. This project also uses dotenv-webpack to protect the google maps API key_
 
 ## Setup and Installation
